@@ -1,0 +1,16 @@
+mkdir Marvel
+touch ironman.txt
+touch thor.md
+touch capitanamerica.sh
+touch panteranegra.cpp
+touch spiderman.ino
+touch starlord.png
+touch drstrange.jpg
+cd ~
+mkdir Thanos
+touch panteranegra.cpp
+touch spiderman.ino
+touch starlord.png
+touch drstrange.jpg
+vim snap.sh
+
