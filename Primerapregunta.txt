@@ -13,4 +13,8 @@ touch spiderman.ino
 touch starlord.png
 touch drstrange.jpg
 vim snap.sh
-
+CLAUDIA REVISO 
+TODOS LOS ARCHIVOS ESTAN FUERA DE MARVEL
+TODOS LOS ARCHIVOS ESTAN FUERA DE THANOS
+SE OLVIDO DE PONER cd para entrar al directorio.
+pero me mostro y si lo tenia bien solo que no lo puso.

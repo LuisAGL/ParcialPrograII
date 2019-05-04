@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	int x=0;
-	int n = 21;
+	int n = 12;
 	while(n != 1)
 	{
 	if( n % 2 == 0)
@@ -19,3 +19,4 @@ int main(){
 	cout << x << endl;
 	return 0;
 }
+ // este codigo esta bien 

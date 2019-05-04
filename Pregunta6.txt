@@ -3,3 +3,5 @@ Lo que sale en la terminal es:
 2 7
 8 8 
 8 7 2 9
+esta pregunta esta correcta sale lo que usted mando en wpp en la respuesta
+
